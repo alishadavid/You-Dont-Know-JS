@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:cluster_10-655323336,cluster_12-989379912</id>
+	<updated>2017-03-22T02:47:49Z</updated>
+	<author>
+		<name>David Alisha Boyer</name>
+		<email>boyerprincess.ag90@gmail.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:cluster_10-655323336</id>
+		<updated>2017-03-22T02:47:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='boyerprincess.ag90@gmail.com'/>
+		<apps:property name='label' value='social'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:cluster_12-989379912</id>
+		<updated>2017-03-22T02:47:49Z</updated>
+		<content></content>
+		<apps:property name='from' value='boyerprincess.ag90@gmail.com'/>
+		<apps:property name='label' value='Call log'/>
+	</entry>
+</feed>
